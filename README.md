@@ -1,4 +1,23 @@
-# Draftkin Lighting + Studio — collaboration test
+# Draftkin Lighting Test — full Windows app
+
+**[Download the separate Windows test installer](https://github.com/sakohelv/Draftkin-Collaboration-Test/releases/download/lighting-test-v3.0.4-1/Draftkin-Lighting-Test-Setup-3.0.4-test.1-x64.exe)**
+
+This installable test app includes the full Lighting v3.0.4 toolset plus a new Presentations tab. It installs alongside the existing Lighting app and sends presentations to the installed Draftkin Studio app. It does not replace production Lighting, Studio or their releases.
+
+Use two different cloud accounts. In Studio's **Cloud projects**, create a separate project with code **DK-TEST**, invite the Lighting account, and request a deliverable after the appointment is accepted/approved. In **Lighting Test → Presentations**, create, check and send the presentation to that request. Studio returns its decision and review note; Lighting can revise and resubmit while earlier versions remain available.
+
+The installer release includes **START-HERE.txt** with the full two-person walkthrough and **SHA256SUMS.txt**. The Presentations tab also has **How to test**.
+
+- Full original tools, templates, drawing editor, BIM, AI extraction connection and exports retained.
+- Separate local app profile and separate technical project/attachment storage.
+- Studio assignments restricted to projects with code `DK-TEST`.
+- Tested with installed Studio **1.1.23** using its Cloud projects connection.
+- That connection supports PDF submissions and written review decisions. Studio's local page markup and CRS are not synchronized through it.
+- No production automatic updates. Install later test builds manually.
+
+## Earlier browser pilot
+
+The instructions below refer only to the earlier GitHub Pages pilot, not the Windows installer above.
 
 A separate browser pilot for two people on different computers. Uses isolated test records in the existing London Supabase server. This is not an update to Draftkin Lighting 3.0.4 or Draftkin Studio 1.1.23.
 
