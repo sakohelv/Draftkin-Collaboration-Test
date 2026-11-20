@@ -1,6 +1,8 @@
 # Draftkin Studio and Lighting collaboration tests
 
-**[Download both v1.0.3 Windows test apps and try Share with Studio](tests/v1.0.3/README.md)**
+**[Download Studio Test and Lighting Test v1.0.4 and invite your project team](tests/v1.0.4/README.md)**
+
+[Earlier v1.0.3 presentation walkthrough](tests/v1.0.3/README.md)
 
 [Earlier v1.0.2 consultant walkthrough](tests/v1.0.2/README.md)
 
