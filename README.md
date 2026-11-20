@@ -1,6 +1,8 @@
 # Draftkin Studio and Lighting collaboration tests
 
-**[Download Studio Test and Lighting Test v1.0.5 and try Document Exchange](tests/v1.0.5/README.md)**
+**[Download Studio Test and Lighting Test v1.0.6 and invite a discipline](tests/v1.0.6/README.md)**
+
+[Earlier v1.0.5 Document Exchange walkthrough](tests/v1.0.5/README.md)
 
 [Earlier v1.0.4 invitation walkthrough](tests/v1.0.4/README.md)
 
