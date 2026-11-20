@@ -1,0 +1,2 @@
+475f7375fe8a3b39666655d31c12558687a72d3067d0cb683136e401d10c088f  Draftkin-Studio-Test-Setup-1.0.3-x64.exe
+4dc994e1aff0050d724460528b11bb08dc1dc2bfd91fca1f73132eb8ac8f4c70  Draftkin-Lighting-Studio-Test-Setup-1.0.3-x64.exe

@@ -1,6 +1,8 @@
 # Draftkin Studio and Lighting collaboration tests
 
-**[Download both v1.0.2 Windows test apps and follow the consultant walkthrough](tests/v1.0.2/README.md)**
+**[Download both v1.0.3 Windows test apps and try Share with Studio](tests/v1.0.3/README.md)**
+
+[Earlier v1.0.2 consultant walkthrough](tests/v1.0.2/README.md)
 
 ## Earlier Lighting prototype
 
