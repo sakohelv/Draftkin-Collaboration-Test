@@ -1,4 +1,8 @@
-# Draftkin Lighting Test — full Windows app
+# Draftkin Studio and Lighting collaboration tests
+
+**[Download both v1.0.2 Windows test apps and follow the consultant walkthrough](tests/v1.0.2/README.md)**
+
+## Earlier Lighting prototype
 
 **[Download the separate Windows test installer](https://github.com/sakohelv/Draftkin-Collaboration-Test/releases/download/lighting-test-v3.0.4-1/Draftkin-Lighting-Test-Setup-3.0.4-test.1-x64.exe)**
 
