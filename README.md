@@ -1,6 +1,8 @@
 # Draftkin Studio and Lighting collaboration tests
 
-**[Download Studio Test and Lighting Test v1.0.7 and send a project presentation](tests/v1.0.7/README.md)**
+**[Download Studio Test and Lighting Test v1.0.8 and share discipline assignments](tests/v1.0.8/README.md)**
+
+[Earlier v1.0.7 project presentation walkthrough](tests/v1.0.7/README.md)
 
 [Earlier v1.0.6 discipline walkthrough](tests/v1.0.6/README.md)
 
