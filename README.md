@@ -1,6 +1,8 @@
 # Draftkin Studio and Lighting collaboration tests
 
-**[Download Studio Test and Lighting Test v1.1.7 for Windows](tests/v1.1.7/README.md)**
+**[Download Studio Test and Lighting Test v1.1.8 for Windows](tests/v1.1.8/README.md)**
+
+[Earlier paired v1.1.7 Windows installers](tests/v1.1.7/README.md)
 
 [Earlier paired v1.1.6 Windows installers](tests/v1.1.6/README.md)
 
