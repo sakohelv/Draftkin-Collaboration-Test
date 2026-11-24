@@ -2,8 +2,8 @@
 
 ## Windows installers
 
-- [Download Studio Test](https://github.com/sakohelv/Draftkin-Collaboration-Test/releases/download/paired-test-v1.1.7/Draftkin-Studio-Test-Setup-1.1.7-x64.exe)
-- [Download Lighting Test](https://github.com/sakohelv/Draftkin-Collaboration-Test/releases/download/paired-test-v1.1.7/Draftkin-Lighting-Studio-Test-Setup-1.1.7-x64.exe)
+- [Download Studio Test](https://github.com/sakohelv/Draftkin-Collaboration-Test/releases/download/paired-test-v1.1.7-r2/Draftkin-Studio-Test-Setup-1.1.7-x64.exe)
+- [Download Lighting Test](https://github.com/sakohelv/Draftkin-Collaboration-Test/releases/download/paired-test-v1.1.7-r2/Draftkin-Lighting-Studio-Test-Setup-1.1.7-x64.exe)
 
 ## Link a presentation to the project programme
 
